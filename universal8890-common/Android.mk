@@ -4,7 +4,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter herolte hero2lte,$(TARGET_DEVICE)),)
+ifneq ($(filter herolte hero2lte gracerlte,$(TARGET_DEVICE)),)
 
 
 ifeq ($(WITH_EXYNOS_BSP),)
