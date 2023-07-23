@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal8895-common/proprietary/lib/hw/gralloc.exynos5.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/gralloc.exynos5.so \
     vendor/samsung/universal8895-common/proprietary/lib/libExynosOMX_Core.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libExynosOMX_Core.so \
     vendor/samsung/universal8895-common/proprietary/lib/libExynosOMX_Resourcemanager.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libExynosOMX_Resourcemanager.so \
-    vendor/samsung/universal8895-common/proprietary/lib/libGrallocWrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libGrallocWrapper.so \
     vendor/samsung/universal8895-common/proprietary/lib/libSamsungPostProcessConvertor.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libSamsungPostProcessConvertor.so \
     vendor/samsung/universal8895-common/proprietary/lib/lib_SamsungRec_06006.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib_SamsungRec_06006.so \
     vendor/samsung/universal8895-common/proprietary/lib/lib_SoundAlive_SRC384_ver320.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib_SoundAlive_SRC384_ver320.so \
@@ -75,7 +74,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal8895-common/proprietary/lib64/hw/gralloc.exynos5.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/gralloc.exynos5.so \
     vendor/samsung/universal8895-common/proprietary/lib64/libExynosOMX_Core.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libExynosOMX_Core.so \
     vendor/samsung/universal8895-common/proprietary/lib64/libExynosOMX_Resourcemanager.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libExynosOMX_Resourcemanager.so \
-    vendor/samsung/universal8895-common/proprietary/lib64/libGrallocWrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libGrallocWrapper.so \
     vendor/samsung/universal8895-common/proprietary/lib64/libacryl.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libacryl.so \
     vendor/samsung/universal8895-common/proprietary/lib64/libexynosgscaler.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libexynosgscaler.so \
     vendor/samsung/universal8895-common/proprietary/lib64/libexynosscaler.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libexynosscaler.so \
